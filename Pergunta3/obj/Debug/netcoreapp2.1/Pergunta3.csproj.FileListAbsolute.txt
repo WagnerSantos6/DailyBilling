@@ -1,0 +1,14 @@
+C:\Users\User\ws-vs2022\Pergunta3\Pergunta3\bin\Debug\netcoreapp2.1\FaturamentoMensal.json
+C:\Users\User\ws-vs2022\Pergunta3\Pergunta3\bin\Debug\netcoreapp2.1\Pergunta3.deps.json
+C:\Users\User\ws-vs2022\Pergunta3\Pergunta3\bin\Debug\netcoreapp2.1\Pergunta3.runtimeconfig.json
+C:\Users\User\ws-vs2022\Pergunta3\Pergunta3\bin\Debug\netcoreapp2.1\Pergunta3.runtimeconfig.dev.json
+C:\Users\User\ws-vs2022\Pergunta3\Pergunta3\bin\Debug\netcoreapp2.1\Pergunta3.dll
+C:\Users\User\ws-vs2022\Pergunta3\Pergunta3\bin\Debug\netcoreapp2.1\Pergunta3.pdb
+C:\Users\User\ws-vs2022\Pergunta3\Pergunta3\obj\Debug\netcoreapp2.1\Pergunta3.csproj.AssemblyReference.cache
+C:\Users\User\ws-vs2022\Pergunta3\Pergunta3\obj\Debug\netcoreapp2.1\Pergunta3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\ws-vs2022\Pergunta3\Pergunta3\obj\Debug\netcoreapp2.1\Pergunta3.AssemblyInfoInputs.cache
+C:\Users\User\ws-vs2022\Pergunta3\Pergunta3\obj\Debug\netcoreapp2.1\Pergunta3.AssemblyInfo.cs
+C:\Users\User\ws-vs2022\Pergunta3\Pergunta3\obj\Debug\netcoreapp2.1\Pergunta3.csproj.CoreCompileInputs.cache
+C:\Users\User\ws-vs2022\Pergunta3\Pergunta3\obj\Debug\netcoreapp2.1\Pergunta3.dll
+C:\Users\User\ws-vs2022\Pergunta3\Pergunta3\obj\Debug\netcoreapp2.1\Pergunta3.pdb
+C:\Users\User\ws-vs2022\Pergunta3\Pergunta3\obj\Debug\netcoreapp2.1\Pergunta3.genruntimeconfig.cache
